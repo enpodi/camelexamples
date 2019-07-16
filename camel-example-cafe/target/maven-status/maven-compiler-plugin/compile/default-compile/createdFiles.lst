@@ -1,0 +1,13 @@
+org\apache\camel\example\cafe\stuff\DrinkRouter.class
+org\apache\camel\example\cafe\stuff\OrderSplitter.class
+org\apache\camel\example\cafe\Customer$1.class
+org\apache\camel\example\cafe\Delivery.class
+org\apache\camel\example\cafe\OrderItem.class
+org\apache\camel\example\cafe\Drink.class
+org\apache\camel\example\cafe\Customer.class
+org\apache\camel\example\cafe\stuff\Waiter.class
+org\apache\camel\example\cafe\Order.class
+org\apache\camel\example\cafe\stuff\Barista.class
+org\apache\camel\example\cafe\stuff\CafeAggregationStrategy.class
+org\apache\camel\example\cafe\CafeRouteBuilder.class
+org\apache\camel\example\cafe\DrinkType.class
