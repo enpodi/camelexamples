@@ -10,6 +10,10 @@ mvn archetype camel
 mvn archetype:generate  -DarchetypeGroupId=org.apache.camel.archetypes   -DarchetypeArtifactId=camel-archetype-spring   -DarchetypeVersion=2.14.4  -DgroupId=NameYourGroup   -DartifactId=NameYourArtifact 
 
 
+camel community and articles
+===================================================
+https://camel.apache.org/staging/community/articles/
+https://www.youtube.com/watch?v=fxpS9pf6TVk&list=PLUDjw7NbNcoyOyhrIIw9cChAHWdaCxIob&index=17
 
 
 monitoring camel with hawt.io
